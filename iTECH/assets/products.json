@@ -1,0 +1,202 @@
+[
+  {
+    "name": "iPhone 18 Pro",
+    "category": "iPhone",
+    "price": 79000
+  },
+  {
+    "name": "iPhone 18 Pro Max",
+    "category": "iPhone",
+    "price": 83200
+  },
+  {
+    "name": "iPhone Duo",
+    "category": "iPhone",
+    "price": 87400
+  },
+  {
+    "name": "iPhone Air",
+    "category": "iPhone",
+    "price": 91600
+  },
+  {
+    "name": "iPhone 17",
+    "category": "iPhone",
+    "price": 95800
+  },
+  {
+    "name": "iPhone 17e",
+    "category": "iPhone",
+    "price": 100000
+  },
+  {
+    "name": "iPhone 16",
+    "category": "iPhone",
+    "price": 104200
+  },
+  {
+    "name": "iPhone 16 Plus",
+    "category": "iPhone",
+    "price": 108400
+  },
+  {
+    "name": "iPhone 16e",
+    "category": "iPhone",
+    "price": 112600
+  },
+  {
+    "name": "iPhone 15",
+    "category": "iPhone",
+    "price": 116800
+  },
+  {
+    "name": "iPhone 15 Plus",
+    "category": "iPhone",
+    "price": 121000
+  },
+  {
+    "name": "MacBook Neo",
+    "category": "Mac",
+    "price": 99000
+  },
+  {
+    "name": "MacBook Air 13″ M5",
+    "category": "Mac",
+    "price": 103200
+  },
+  {
+    "name": "MacBook Air 15″ M5",
+    "category": "Mac",
+    "price": 107400
+  },
+  {
+    "name": "MacBook Pro 14″ M6",
+    "category": "Mac",
+    "price": 111600
+  },
+  {
+    "name": "MacBook Pro 14″ M5",
+    "category": "Mac",
+    "price": 115800
+  },
+  {
+    "name": "MacBook Pro 16″ M5 Pro / Max",
+    "category": "Mac",
+    "price": 120000
+  },
+  {
+    "name": "iMac",
+    "category": "Mac",
+    "price": 124200
+  },
+  {
+    "name": "Mac mini",
+    "category": "Mac",
+    "price": 128400
+  },
+  {
+    "name": "Mac Studio",
+    "category": "Mac",
+    "price": 132600
+  },
+  {
+    "name": "Mac Pro",
+    "category": "Mac",
+    "price": 136800
+  },
+  {
+    "name": "iPad Pro",
+    "category": "iPad",
+    "price": 39000
+  },
+  {
+    "name": "iPad Air",
+    "category": "iPad",
+    "price": 43200
+  },
+  {
+    "name": "iPad",
+    "category": "iPad",
+    "price": 47400
+  },
+  {
+    "name": "iPad mini",
+    "category": "iPad",
+    "price": 51600
+  },
+  {
+    "name": "AirPods 5",
+    "category": "AirPods",
+    "price": 15900
+  },
+  {
+    "name": "AirPods Pro 3",
+    "category": "AirPods",
+    "price": 20100
+  },
+  {
+    "name": "AirPods Max 2",
+    "category": "AirPods",
+    "price": 24300
+  },
+  {
+    "name": "AirPods 4",
+    "category": "AirPods",
+    "price": 28500
+  },
+  {
+    "name": "Apple Watch Series 12",
+    "category": "Watch",
+    "price": 29900
+  },
+  {
+    "name": "Apple Watch Ultra 4",
+    "category": "Watch",
+    "price": 34100
+  },
+  {
+    "name": "Apple Watch SE 3",
+    "category": "Watch",
+    "price": 38300
+  },
+  {
+    "name": "Apple Vision Pro",
+    "category": "Other",
+    "price": 9900
+  },
+  {
+    "name": "AirTag",
+    "category": "Other",
+    "price": 14100
+  },
+  {
+    "name": "Apple TV 4K",
+    "category": "Other",
+    "price": 18300
+  },
+  {
+    "name": "HomePod",
+    "category": "Other",
+    "price": 22500
+  },
+  {
+    "name": "HomePod mini",
+    "category": "Other",
+    "price": 26700
+  },
+  {
+    "name": "Apple Pencil Pro",
+    "category": "Other",
+    "price": 30900
+  },
+  {
+    "name": "Magic Keyboard",
+    "category": "Other",
+    "price": 35100
+  },
+  {
+    "name": "Studio Display",
+    "category": "Other",
+    "price": 39300
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "name": "iPhone 18 Pro",
+    "category": "iPhone"
+  },
+  {
+    "name": "iPhone 18 Pro Max",
+    "category": "iPhone"
+  },
+  {
+    "name": "iPhone Duo",
+    "category": "iPhone"
+  },
+  {
+    "name": "iPhone Air",
+    "category": "iPhone"
+  },
+  {
+    "name": "iPhone 17",
+    "category": "iPhone"
+  },
+  {
+    "name": "iPhone 17e",
+    "category": "iPhone"
+  },
+  {
+    "name": "iPhone 16",
+    "category": "iPhone"
+  },
+  {
+    "name": "iPhone 16 Plus",
+    "category": "iPhone"
+  },
+  {
+    "name": "iPhone 16e",
+    "category": "iPhone"
+  },
+  {
+    "name": "iPhone 15",
+    "category": "iPhone"
+  },
+  {
+    "name": "iPhone 15 Plus",
+    "category": "iPhone"
+  },
+  {
+    "name": "MacBook Neo",
+    "category": "Mac"
+  },
+  {
+    "name": "MacBook Air 13″ M5",
+    "category": "Mac"
+  },
+  {
+    "name": "MacBook Air 15″ M5",
+    "category": "Mac"
+  },
+  {
+    "name": "MacBook Pro 14″ M6",
+    "category": "Mac"
+  },
+  {
+    "name": "MacBook Pro 14″ M5",
+    "category": "Mac"
+  },
+  {
+    "name": "MacBook Pro 16″ M5 Pro / Max",
+    "category": "Mac"
+  },
+  {
+    "name": "iMac",
+    "category": "Mac"
+  },
+  {
+    "name": "Mac mini",
+    "category": "Mac"
+  },
+  {
+    "name": "Mac Studio",
+    "category": "Mac"
+  },
+  {
+    "name": "Mac Pro",
+    "category": "Mac"
+  },
+  {
+    "name": "iPad Pro",
+    "category": "iPad"
+  },
+  {
+    "name": "iPad Air",
+    "category": "iPad"
+  },
+  {
+    "name": "iPad",
+    "category": "iPad"
+  },
+  {
+    "name": "iPad mini",
+    "category": "iPad"
+  },
+  {
+    "name": "AirPods 5",
+    "category": "AirPods"
+  },
+  {
+    "name": "AirPods Pro 3",
+    "category": "AirPods"
+  },
+  {
+    "name": "AirPods Max 2",
+    "category": "AirPods"
+  },
+  {
+    "name": "Apple Watch Series 12",
+    "category": "Watch"
+  },
+  {
+    "name": "Apple Watch Ultra 4",
+    "category": "Watch"
+  },
+  {
+    "name": "Apple Watch SE 3",
+    "category": "Watch"
+  },
+  {
+    "name": "Apple Vision Pro",
+    "category": "Другое"
+  },
+  {
+    "name": "AirTag",
+    "category": "Другое"
+  },
+  {
+    "name": "Apple TV 4K",
+    "category": "Другое"
+  },
+  {
+    "name": "HomePod",
+    "category": "Другое"
+  },
+  {
+    "name": "HomePod mini",
+    "category": "Другое"
+  },
+  {
+    "name": "Apple Pencil Pro",
+    "category": "Другое"
+  },
+  {
+    "name": "Magic Keyboard",
+    "category": "Другое"
+  },
+  {
+    "name": "Studio Display",
+    "category": "Другое"
+  }
+]
